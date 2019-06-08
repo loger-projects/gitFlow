@@ -5,7 +5,6 @@ NAME
        associated objects
 
 SYNOPSIS
-       git push [--all | --mirror | --tags] [--follow-tags] [--atomic] [-n | --dry-run] [--receive-pack=<git-receive-pack>]
                   [--repo=<repository>] [-f | --force] [-d | --delete] [--prune] [-v | --verbose]
                   [-u | --set-upstream] [--push-option=<string>]
                   [--[no-]signed|--signed=(true|false|if-asked)]
